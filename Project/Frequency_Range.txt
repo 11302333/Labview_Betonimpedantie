@@ -1,0 +1,4 @@
+Range: 0,01 tot 1.000.000 HZ
+Max. Analog output van MyDAQ: About 0,2 - 20KHz
+
+1 Hz - 10 KHz
